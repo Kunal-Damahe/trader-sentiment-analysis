@@ -58,7 +58,6 @@ I also tried clustering traders into different groups based on their behavior.
 
 ## How to Run
 
-## How to Run
 
 1. Install required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn
