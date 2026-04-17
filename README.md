@@ -50,7 +50,7 @@ I also built a simple machine learning model to predict whether a trade will be 
 - Trade size
 - Trader activity
 
-The model achieved around 62% accuracy, which suggests that sentiment and behavior do have some predictive value, but other factors are also important.
+The model achieved around 64% accuracy, which suggests that sentiment and behavior do have some predictive value, but other factors are also important.
 
 I also tried clustering traders into different groups based on their behavior.
 
